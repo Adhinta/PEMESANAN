@@ -1,0 +1,28 @@
+[08-Apr-2018 10:46:19 UTC] PHP Notice:  Undefined variable: con in /home/u7039630/public_html/mhs.rey1024.com/appmobile/A1615051070/kirimData.php on line 33
+[08-Apr-2018 10:46:19 UTC] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, null given in /home/u7039630/public_html/mhs.rey1024.com/appmobile/A1615051070/kirimData.php on line 33
+[08-Apr-2018 11:05:00 UTC] PHP Notice:  Undefined variable: con in /home/u7039630/public_html/mhs.rey1024.com/appmobile/A1615051070/kirimData.php on line 33
+[08-Apr-2018 11:05:00 UTC] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, null given in /home/u7039630/public_html/mhs.rey1024.com/appmobile/A1615051070/kirimData.php on line 33
+[08-Apr-2018 11:06:23 UTC] PHP Notice:  Undefined variable: con in /home/u7039630/public_html/mhs.rey1024.com/appmobile/A1615051070/kirimData.php on line 33
+[08-Apr-2018 11:06:23 UTC] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, null given in /home/u7039630/public_html/mhs.rey1024.com/appmobile/A1615051070/kirimData.php on line 33
+[09-Apr-2018 07:07:24 UTC] PHP Notice:  Undefined variable: con in /home/u7039630/public_html/mhs.rey1024.com/appmobile/A1615051070/kirimData.php on line 33
+[09-Apr-2018 07:07:24 UTC] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, null given in /home/u7039630/public_html/mhs.rey1024.com/appmobile/A1615051070/kirimData.php on line 33
+[09-Apr-2018 09:08:48 UTC] PHP Notice:  Undefined variable: con in /home/u7039630/public_html/mhs.rey1024.com/appmobile/A1615051070/kirimData.php on line 33
+[09-Apr-2018 09:08:48 UTC] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, null given in /home/u7039630/public_html/mhs.rey1024.com/appmobile/A1615051070/kirimData.php on line 33
+[09-Apr-2018 09:08:52 UTC] PHP Notice:  Undefined variable: con in /home/u7039630/public_html/mhs.rey1024.com/appmobile/A1615051070/kirimData.php on line 33
+[09-Apr-2018 09:08:52 UTC] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, null given in /home/u7039630/public_html/mhs.rey1024.com/appmobile/A1615051070/kirimData.php on line 33
+[09-Apr-2018 09:08:53 UTC] PHP Notice:  Undefined variable: con in /home/u7039630/public_html/mhs.rey1024.com/appmobile/A1615051070/kirimData.php on line 33
+[09-Apr-2018 09:08:53 UTC] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, null given in /home/u7039630/public_html/mhs.rey1024.com/appmobile/A1615051070/kirimData.php on line 33
+[09-Apr-2018 09:08:54 UTC] PHP Notice:  Undefined variable: con in /home/u7039630/public_html/mhs.rey1024.com/appmobile/A1615051070/kirimData.php on line 33
+[09-Apr-2018 09:08:54 UTC] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, null given in /home/u7039630/public_html/mhs.rey1024.com/appmobile/A1615051070/kirimData.php on line 33
+[09-Apr-2018 09:17:27 UTC] PHP Notice:  Undefined variable: con in /home/u7039630/public_html/mhs.rey1024.com/appmobile/A1615051070/kirimData.php on line 33
+[09-Apr-2018 09:17:27 UTC] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, null given in /home/u7039630/public_html/mhs.rey1024.com/appmobile/A1615051070/kirimData.php on line 33
+[09-Apr-2018 09:24:52 UTC] PHP Notice:  Undefined variable: con in /home/u7039630/public_html/mhs.rey1024.com/appmobile/A1615051070/kirimData.php on line 33
+[09-Apr-2018 09:24:52 UTC] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, null given in /home/u7039630/public_html/mhs.rey1024.com/appmobile/A1615051070/kirimData.php on line 33
+[09-Apr-2018 09:27:21 UTC] PHP Notice:  Undefined variable: con in /home/u7039630/public_html/mhs.rey1024.com/appmobile/A1615051070/kirimData.php on line 33
+[09-Apr-2018 09:27:21 UTC] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, null given in /home/u7039630/public_html/mhs.rey1024.com/appmobile/A1615051070/kirimData.php on line 33
+[09-Apr-2018 09:29:32 UTC] PHP Notice:  Undefined variable: con in /home/u7039630/public_html/mhs.rey1024.com/appmobile/A1615051070/kirimData.php on line 33
+[09-Apr-2018 09:29:32 UTC] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, null given in /home/u7039630/public_html/mhs.rey1024.com/appmobile/A1615051070/kirimData.php on line 33
+[09-Apr-2018 09:45:53 UTC] PHP Notice:  Undefined variable: con in /home/u7039630/public_html/mhs.rey1024.com/appmobile/A1615051070/kirimData.php on line 33
+[09-Apr-2018 09:45:53 UTC] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, null given in /home/u7039630/public_html/mhs.rey1024.com/appmobile/A1615051070/kirimData.php on line 33
+[09-Apr-2018 14:51:18 UTC] PHP Notice:  Undefined variable: con in /home/u7039630/public_html/mhs.rey1024.com/appmobile/A1615051070/kirimData.php on line 33
+[09-Apr-2018 14:51:18 UTC] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, null given in /home/u7039630/public_html/mhs.rey1024.com/appmobile/A1615051070/kirimData.php on line 33
